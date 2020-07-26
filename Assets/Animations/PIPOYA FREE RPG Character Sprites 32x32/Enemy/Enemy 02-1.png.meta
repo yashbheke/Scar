@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: a97d0f44bf9bb5e4a8cc88d021ee1c29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 177159673087789770
+    second: Enemy 02-1_0
+  - first:
+      213: -3119031904900656694
+    second: Enemy 02-1_1
+  - first:
+      213: -4244324814883813674
+    second: Enemy 02-1_2
+  - first:
+      213: 6746275411440246123
+    second: Enemy 02-1_3
+  - first:
+      213: 2230161400826871496
+    second: Enemy 02-1_4
+  - first:
+      213: -7287049353037509709
+    second: Enemy 02-1_5
+  - first:
+      213: 7462658982462945757
+    second: Enemy 02-1_6
+  - first:
+      213: 8862280315222398241
+    second: Enemy 02-1_7
+  - first:
+      213: 1304367060957966186
+    second: Enemy 02-1_8
+  - first:
+      213: -2168200626212969008
+    second: Enemy 02-1_9
+  - first:
+      213: -1580823385783997336
+    second: Enemy 02-1_10
+  - first:
+      213: 9187778393752982409
+    second: Enemy 02-1_11
+  - first:
+      213: 2436733567905998427
+    second: Enemy 02-1_12
+  - first:
+      213: -1117432576020475694
+    second: Enemy 02-1_13
+  - first:
+      213: -1701467645280956391
+    second: Enemy 02-1_14
+  - first:
+      213: 6735570260987514884
+    second: Enemy 02-1_15
+  - first:
+      213: 2513371047142527021
+    second: Enemy 02-1_16
+  - first:
+      213: -719778040601544853
+    second: Enemy 02-1_17
+  - first:
+      213: 5687957087942805976
+    second: Enemy 02-1_18
+  - first:
+      213: -2613016953684616322
+    second: Enemy 02-1_19
+  - first:
+      213: 7830977515600842183
+    second: Enemy 02-1_20
+  - first:
+      213: 897258957287179789
+    second: Enemy 02-1_21
+  - first:
+      213: 3977523032649345906
+    second: Enemy 02-1_22
+  - first:
+      213: -7482679570022190613
+    second: Enemy 02-1_23
+  - first:
+      213: 6502427431864359524
+    second: Enemy 02-1_24
+  - first:
+      213: -5778476747912931041
+    second: Enemy 02-1_25
+  - first:
+      213: -8682319886091626473
+    second: Enemy 02-1_26
+  - first:
+      213: -1543329057430773362
+    second: Enemy 02-1_27
+  - first:
+      213: 3614727128788756859
+    second: Enemy 02-1_28
+  - first:
+      213: 1608410520811307451
+    second: Enemy 02-1_29
+  - first:
+      213: -5020738164249403585
+    second: Enemy 02-1_30
+  - first:
+      213: -6953775730240136170
+    second: Enemy 02-1_31
+  - first:
+      213: -2550450677756792446
+    second: Enemy 02-1_32
+  - first:
+      213: -1155945875394110769
+    second: Enemy 02-1_33
+  - first:
+      213: -1649878090155854526
+    second: Enemy 02-1_34
+  - first:
+      213: -8859861700678660337
+    second: Enemy 02-1_35
+  - first:
+      213: 383527547336741510
+    second: Enemy 02-1_36
+  - first:
+      213: 7988525046638148523
+    second: Enemy 02-1_37
+  - first:
+      213: -8050140887086623504
+    second: Enemy 02-1_38
+  - first:
+      213: -7645870154646420867
+    second: Enemy 02-1_39
+  - first:
+      213: -7275015485064417899
+    second: Enemy 02-1_40
+  - first:
+      213: -4067772617270270877
+    second: Enemy 02-1_41
+  - first:
+      213: -8119608538999635756
+    second: Enemy 02-1_42
+  - first:
+      213: 8804350830353937311
+    second: Enemy 02-1_43
+  - first:
+      213: 1163643264690301672
+    second: Enemy 02-1_44
+  - first:
+      213: 7864739609670586244
+    second: Enemy 02-1_45
+  - first:
+      213: -8454225424478352647
+    second: Enemy 02-1_46
+  - first:
+      213: -7215751154097861528
+    second: Enemy 02-1_47
+  - first:
+      213: 5393300124695447459
+    second: Enemy 02-1_48
+  - first:
+      213: 4731344213317369372
+    second: Enemy 02-1_49
+  - first:
+      213: 8020221994530274797
+    second: Enemy 02-1_50
+  - first:
+      213: 8647704087140714878
+    second: Enemy 02-1_51
+  - first:
+      213: 5763677590640843416
+    second: Enemy 02-1_52
+  - first:
+      213: -8828038991599712227
+    second: Enemy 02-1_53
+  - first:
+      213: 8161311419979733093
+    second: Enemy 02-1_54
+  - first:
+      213: -7222387636992510262
+    second: Enemy 02-1_55
+  - first:
+      213: -6845314814015746596
+    second: Enemy 02-1_56
+  - first:
+      213: 8095720322510201830
+    second: Enemy 02-1_57
+  - first:
+      213: 8247465675083343654
+    second: Enemy 02-1_58
+  - first:
+      213: 4149948390753682169
+    second: Enemy 02-1_59
+  - first:
+      213: -1240557051423241052
+    second: Enemy 02-1_60
+  - first:
+      213: -3085456268604360122
+    second: Enemy 02-1_61
+  - first:
+      213: 7505879980170284918
+    second: Enemy 02-1_62
+  - first:
+      213: -6538081586976304916
+    second: Enemy 02-1_63
+  - first:
+      213: 6999428009017728280
+    second: Enemy 02-1_64
+  - first:
+      213: 4159729062291169202
+    second: Enemy 02-1_65
+  - first:
+      213: 5923567866775795030
+    second: Enemy 02-1_66
+  - first:
+      213: -2149412957353626797
+    second: Enemy 02-1_67
+  - first:
+      213: 5498119335965177603
+    second: Enemy 02-1_68
+  - first:
+      213: 5373182772541637169
+    second: Enemy 02-1_69
+  - first:
+      213: 6221199372432057968
+    second: Enemy 02-1_70
+  - first:
+      213: 1722499515203457437
+    second: Enemy 02-1_71
+  - first:
+      213: -7964181764941444210
+    second: Enemy 02-1_72
+  - first:
+      213: 2839959728222082944
+    second: Enemy 02-1_73
+  - first:
+      213: -7918862436428490980
+    second: Enemy 02-1_74
+  - first:
+      213: -7805712828152245953
+    second: Enemy 02-1_75
+  - first:
+      213: -3340335666707925089
+    second: Enemy 02-1_76
+  - first:
+      213: -5035778417630905091
+    second: Enemy 02-1_77
+  - first:
+      213: -6604169667668978179
+    second: Enemy 02-1_78
+  - first:
+      213: -7885524825389973679
+    second: Enemy 02-1_79
+  - first:
+      213: -2424496252699029809
+    second: Enemy 02-1_80
+  - first:
+      213: -4792489842130079566
+    second: Enemy 02-1_81
+  - first:
+      213: -7647144736616911131
+    second: Enemy 02-1_82
+  - first:
+      213: 6664317121656560803
+    second: Enemy 02-1_83
+  - first:
+      213: 1232558188856364198
+    second: Enemy 02-1_84
+  - first:
+      213: 5104992897214901842
+    second: Enemy 02-1_85
+  - first:
+      213: 1446674693212118363
+    second: Enemy 02-1_86
+  - first:
+      213: 2532314947424613276
+    second: Enemy 02-1_87
+  - first:
+      213: -8599835768669727614
+    second: Enemy 02-1_88
+  - first:
+      213: -8017926534548222587
+    second: Enemy 02-1_89
+  - first:
+      213: 3690927040400351142
+    second: Enemy 02-1_90
+  - first:
+      213: -9065068582933000512
+    second: Enemy 02-1_91
+  - first:
+      213: -6127018508714836005
+    second: Enemy 02-1_92
+  - first:
+      213: -6940685731068299758
+    second: Enemy 02-1_93
+  - first:
+      213: 67148728505541705
+    second: Enemy 02-1_94
+  - first:
+      213: -4039169511250615365
+    second: Enemy 02-1_95
+  - first:
+      213: -2800521110086700834
+    second: Enemy 02-1_96
+  - first:
+      213: 5192808351630001585
+    second: Enemy 02-1_97
+  - first:
+      213: 4769450445380086031
+    second: Enemy 02-1_98
+  - first:
+      213: 3345827025025017101
+    second: Enemy 02-1_99
+  - first:
+      213: -3327472386869204255
+    second: Enemy 02-1_100
+  - first:
+      213: 7503931378077937103
+    second: Enemy 02-1_101
+  - first:
+      213: -8676758553655585574
+    second: Enemy 02-1_102
+  - first:
+      213: 4295577606073938481
+    second: Enemy 02-1_103
+  - first:
+      213: -6016667536577144108
+    second: Enemy 02-1_104
+  - first:
+      213: 6331668406267226656
+    second: Enemy 02-1_105
+  - first:
+      213: 6967240355992779240
+    second: Enemy 02-1_106
+  - first:
+      213: -5966947139648738230
+    second: Enemy 02-1_107
+  - first:
+      213: 3958260192759885760
+    second: Enemy 02-1_108
+  - first:
+      213: -74163709776545453
+    second: Enemy 02-1_109
+  - first:
+      213: 179935027931676776
+    second: Enemy 02-1_110
+  - first:
+      213: 1898139865894480974
+    second: Enemy 02-1_111
+  - first:
+      213: 8853505463201943163
+    second: Enemy 02-1_112
+  - first:
+      213: 1335024693929608441
+    second: Enemy 02-1_113
+  - first:
+      213: -5543444501804286573
+    second: Enemy 02-1_114
+  - first:
+      213: -2701589905661161248
+    second: Enemy 02-1_115
+  - first:
+      213: 3304133515147608232
+    second: Enemy 02-1_116
+  - first:
+      213: 8562158566979952220
+    second: Enemy 02-1_117
+  - first:
+      213: 5173084485483447990
+    second: Enemy 02-1_118
+  - first:
+      213: 1022755066632520731
+    second: Enemy 02-1_119
+  - first:
+      213: 4667076150833762544
+    second: Enemy 02-1_120
+  - first:
+      213: 6965809732147049359
+    second: Enemy 02-1_121
+  - first:
+      213: 2209685826804259484
+    second: Enemy 02-1_122
+  - first:
+      213: -3003055226244084479
+    second: Enemy 02-1_123
+  - first:
+      213: 797332199603346180
+    second: Enemy 02-1_124
+  - first:
+      213: -5218985854924856580
+    second: Enemy 02-1_125
+  - first:
+      213: 777551093291811528
+    second: Enemy 02-1_126
+  - first:
+      213: -4730550885487397781
+    second: Enemy 02-1_127
+  - first:
+      213: 6094175423346671213
+    second: Enemy 02-1_128
+  - first:
+      213: -9113604127455414275
+    second: Enemy 02-1_129
+  - first:
+      213: 8616608367520118875
+    second: Enemy 02-1_130
+  - first:
+      213: 6240300799470139550
+    second: Enemy 02-1_131
+  - first:
+      213: 3270876487785147167
+    second: Enemy 02-1_132
+  - first:
+      213: -2881803696046736987
+    second: Enemy 02-1_133
+  - first:
+      213: -3653384155734688637
+    second: Enemy 02-1_134
+  - first:
+      213: 4081142732189533333
+    second: Enemy 02-1_135
+  - first:
+      213: -2367738935878109006
+    second: Enemy 02-1_136
+  - first:
+      213: 3560859496533147458
+    second: Enemy 02-1_137
+  - first:
+      213: 5877554934299749361
+    second: Enemy 02-1_138
+  - first:
+      213: -8491699148187867473
+    second: Enemy 02-1_139
+  - first:
+      213: 462658183973721825
+    second: Enemy 02-1_140
+  - first:
+      213: 361097482702475784
+    second: Enemy 02-1_141
+  - first:
+      213: 6508256498236271049
+    second: Enemy 02-1_142
+  - first:
+      213: 923948277451098417
+    second: Enemy 02-1_143
+  - first:
+      213: -453538356253101753
+    second: Enemy 02-1_144
+  - first:
+      213: -2961847670140547013
+    second: Enemy 02-1_145
+  - first:
+      213: -2153498795846805257
+    second: Enemy 02-1_146
+  - first:
+      213: 6209808946638628425
+    second: Enemy 02-1_147
+  - first:
+      213: 8937861663924061898
+    second: Enemy 02-1_148
+  - first:
+      213: 8531222780328117073
+    second: Enemy 02-1_149
+  - first:
+      213: 6761849274914257521
+    second: Enemy 02-1_150
+  - first:
+      213: 7656886169022545753
+    second: Enemy 02-1_151
+  - first:
+      213: 8320841888138502639
+    second: Enemy 02-1_152
+  - first:
+      213: 3637901308294936961
+    second: Enemy 02-1_153
+  - first:
+      213: -7522224145309216649
+    second: Enemy 02-1_154
+  - first:
+      213: -5704197506544405860
+    second: Enemy 02-1_155
+  - first:
+      213: 4750739970272707132
+    second: Enemy 02-1_156
+  - first:
+      213: -4813595836369903459
+    second: Enemy 02-1_157
+  - first:
+      213: -8683129004270986450
+    second: Enemy 02-1_158
+  - first:
+      213: 7327354918202183397
+    second: Enemy 02-1_159
+  - first:
+      213: 2558369149719275792
+    second: Enemy 02-1_160
+  - first:
+      213: 135114643072148580
+    second: Enemy 02-1_161
+  - first:
+      213: 554540468658419090
+    second: Enemy 02-1_162
+  - first:
+      213: 6144816131988758304
+    second: Enemy 02-1_163
+  - first:
+      213: -7972350094790481740
+    second: Enemy 02-1_164
+  - first:
+      213: 2490580763062776447
+    second: Enemy 02-1_165
+  - first:
+      213: -9013654086323779928
+    second: Enemy 02-1_166
+  - first:
+      213: 1330999094667719599
+    second: Enemy 02-1_167
+  - first:
+      213: -208699308264082289
+    second: Enemy 02-1_168
+  - first:
+      213: -9005745335100390250
+    second: Enemy 02-1_169
+  - first:
+      213: 3386384007702389522
+    second: Enemy 02-1_170
+  - first:
+      213: -4090542361702716532
+    second: Enemy 02-1_171
+  - first:
+      213: 8821661497907788454
+    second: Enemy 02-1_172
+  - first:
+      213: -3711635370540984912
+    second: Enemy 02-1_173
+  - first:
+      213: 2904969429296107945
+    second: Enemy 02-1_174
+  - first:
+      213: 2004777976670198778
+    second: Enemy 02-1_175
+  - first:
+      213: 2612070282700232056
+    second: Enemy 02-1_176
+  - first:
+      213: 3622914726510295061
+    second: Enemy 02-1_177
+  - first:
+      213: 2574540841132457364
+    second: Enemy 02-1_178
+  - first:
+      213: 844192662966972025
+    second: Enemy 02-1_179
+  - first:
+      213: 8847023152171927951
+    second: Enemy 02-1_180
+  - first:
+      213: 3943226312923159254
+    second: Enemy 02-1_181
+  - first:
+      213: -2360520071352837474
+    second: Enemy 02-1_182
+  - first:
+      213: -6542367229994467881
+    second: Enemy 02-1_183
+  - first:
+      213: -3885256903148882208
+    second: Enemy 02-1_184
+  - first:
+      213: -7778010880162917722
+    second: Enemy 02-1_185
+  - first:
+      213: 2355061307952251327
+    second: Enemy 02-1_186
+  - first:
+      213: -119143043565475503
+    second: Enemy 02-1_187
+  - first:
+      213: -6542059445636391276
+    second: Enemy 02-1_188
+  - first:
+      213: 6225478568409050710
+    second: Enemy 02-1_189
+  - first:
+      213: -7880803232188636437
+    second: Enemy 02-1_190
+  - first:
+      213: 6968169148330956725
+    second: Enemy 02-1_191
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy 02-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca0ce6b8c5657200800000000000000
+      internalID: 177159673087789770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac159410209f6b4d0800000000000000
+      internalID: -3119031904900656694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6897971112915c0800000000000000
+      internalID: -4244324814883813674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d19df4eb59f9d50800000000000000
+      internalID: 6746275411440246123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceb2186aff13fe10800000000000000
+      internalID: 2230161400826871496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb857bc8333fda90800000000000000
+      internalID: -7287049353037509709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9f4914ec0b09760800000000000000
+      internalID: 7462658982462945757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12594c80ef42dfa70800000000000000
+      internalID: 8862280315222398241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fae1d5eea0a1210800000000000000
+      internalID: 1304367060957966186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ebc0a40109e1e0800000000000000
+      internalID: -2168200626212969008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce6b59189cf0ae0800000000000000
+      internalID: -1580823385783997336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy 02-1_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983d7aa25cb818f70800000000000000
+      internalID: 9187778393752982409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
